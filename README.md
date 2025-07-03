@@ -1,9 +1,9 @@
-📌 Project Overview
+## 📌 Project Overview
 
 Freight transportation demand is highly dynamic, influenced by seasonal trends, economic cycles, and external disruptions. Accurate forecasting enables businesses to improve capacity planning, streamline supply chains, and make informed decisions. This project applies ARIMA modeling to historical freight shipment data to generate reliable forecasts.
 
 
-🔍 Objectives
+## 🔍 Objectives
 
 • Analyze historical freight transportation data for patterns and trends.
 
@@ -14,7 +14,7 @@ Freight transportation demand is highly dynamic, influenced by seasonal trends, 
 • Provide visualizations and insights to aid strategic decision-making in logistics.
 
 
-⚙️ Tools & Technologies
+## ⚙️ Tools & Technologies
 
 • Pandas & NumPy
 
@@ -25,16 +25,16 @@ Freight transportation demand is highly dynamic, influenced by seasonal trends, 
 • Jupyter Notebook
 
 
-🚀 How to Run
+## 🚀 How to Run
 
-Clone this repository: 
+### Clone this repository: 
 
 ```git clone https://github.com/Vikash916692/Fore-casting-freight-transportation-demand-for-strategic-decision-making-using-ARIMA-model.git cd Fore-casting-freight-transportation-demand-for-strategic-decision-making-using-ARIMA-model```
 
-Install dependencies:
+### Install dependencies:
 
 ```pip install -r requirements.txt```
 
-Launch Jupyter Notebook or run the main Python script:
+### Launch Jupyter Notebook or run the main Python script:
 
 ```jupyter notebook freight_forecasting.ipynb```
