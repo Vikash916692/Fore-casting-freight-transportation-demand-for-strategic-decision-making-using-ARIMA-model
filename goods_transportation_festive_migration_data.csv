@@ -1,0 +1,13 @@
+Month,Road Transport (tons),Rail Transport (tons),Air Transport (tons),Sea Transport (tons),Festive Sales Impact,Migration Season Impact
+January,1200,800,300,5000,New Year Sales,Post-New Year Relocations
+February,1350,820,320,5100,Regular,Regular
+March,1400,850,310,5200,Holi Boost,Pre-Academic Year Moves
+April,1450,870,330,5300,Eid Sales,Regular
+May,1500,890,340,5400,Regular,Job Transfer Season
+June,1600,920,350,5500,Regular,Academic Admissions Moves
+July,1550,940,360,5600,Regular,Regular
+August,1650,960,370,5700,Raksha Bandhan/Independence Day Sales,Regular
+September,1700,980,380,5800,Ganesh Chaturthi Boost,Post-Monsoon Relocations
+October,1750,1000,390,5900,Navratri/Dussehra Sales,Pre-Festive Season Moves
+November,1800,1020,400,6000,Diwali Boost,Regular
+December,1900,1050,420,6200,Christmas/New Year Sales,Year-End Relocations
